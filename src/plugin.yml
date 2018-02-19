@@ -1,0 +1,6 @@
+main: me.redepicness.template.main
+version: 1.0
+name: FakeEnchant
+author: Red_Epicness
+commands:
+  fe:
